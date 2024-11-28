@@ -6,7 +6,7 @@ public class principal {
 		// TODO Auto-generated method stub
 		System.out.println("Hola Mundo");
 		/*
-		 * Otro cambio nuevo
+		 * Otro cambio nuevo.
 		 */
 	}
 
